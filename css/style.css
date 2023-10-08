@@ -141,6 +141,14 @@ body{
     cursor: pointer;
 }
 
+.btn:hover{
+    opacity: .5;
+}
+
+.btn:active{
+    opacity: 1;
+}
+
 .btn-sm{
     padding: 1px 6px;
     font-size: 14px;
